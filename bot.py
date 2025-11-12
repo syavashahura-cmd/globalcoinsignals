@@ -9,7 +9,7 @@ import logging
 from datetime import datetime, timedelta
 
 # تنظیمات
-BOT_TOKEN"8446696795:AAGyWTmVt6YDAhFf4LuytFbKtCtrmJfFLPI"  # توکن رو اینجا بذار
+BOT_TOKEN="8446696795:AAGyWTmVt6YDAhFf4LuytFbKtCtrmJfFLPI"  # توکن رو اینجا بذار
 TON_PAYMENT_ADDRESS = "UQC8oNGKujcu7QFJ5YDfMq7AO-IOqFO923YGAy0Ci75GBZSh"  # آدرس TON والتت
 MIN_SUBSCRIPTION_TON = 0.5  # حداقل پرداخت برای اشتراک (TON)
 
